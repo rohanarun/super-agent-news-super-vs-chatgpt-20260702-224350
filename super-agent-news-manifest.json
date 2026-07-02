@@ -1,0 +1,31 @@
+{
+  "citations": [
+    "[zapier.com](https://zapier.com/blog/claude-vs-chatgpt/)",
+    "[cxtoday.com](https://www.cxtoday.com/ai/the-end-of-the-chat-interface-openais-bet-on-agentic-ai/)",
+    "[en.softonic.com](https://en.softonic.com/articles/chatgpt-scheduled-tasks)",
+    "[yahoo.com](https://www.yahoo.com/tech/chatgpts-new-scheduled-page-070000000.html)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[bgr.com](https://www.bgr.com/tech/ditch-siri-for-these-5-ios-compatible-alternatives/)",
+    "[blockster.com](https://blockster.com/moonpay-is-now-live-on-claude-becoming-the-first-crypto-onramp-across-every-major-ai-assistant/)"
+  ],
+  "design_plan": "rng=42; hero_lines=3; aida=pass; grid_density=verified; contrast=AA; cache_phrase=verified",
+  "generated_at": "2026-07-02T22:43:57.601032+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "ChatGPT is a world\u2011class general AI assistant evolving quickly toward agentic automation. Super is built for a different job: durable personal AI agents that actually operate computers and reuse a computer-use cache so repeated workflows get faster and cheaper over time. This page fairly compares where ChatGPT shines \u2014 and why teams doing repeated computer work often choose Super."
+}
